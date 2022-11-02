@@ -1,3 +1,4 @@
+参考記事：https://codelikes.com/github-ssh-connection/
 # SSH Keyの作成
 次のコマンドで作成する。
 ```ruby:qiita.rb
